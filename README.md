@@ -1,2 +1,2 @@
 # monopoly
-1.semester-zaverecny projekt-monopoly ktore hraju dvaja hraci
+1.semester-zaverecny projekt-monopoly ktore sa odohraje samo
